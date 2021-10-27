@@ -1,0 +1,17 @@
+{
+  "name": "otaki-ec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.6.0",
+    "popperjs-core": "^2.5.0"
+  }
+}
